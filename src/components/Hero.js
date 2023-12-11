@@ -12,7 +12,7 @@ export default function Hero() {
           boxSize='300px'
           objectFit='cover'
           src= 'https://i.pinimg.com/564x/40/3f/e2/403fe2b99e059c3cc401a614635e3689.jpg'
-          alt='Dan Abramov'
+          alt='pict'
           
           />
           </Box>
@@ -71,8 +71,8 @@ export default function Hero() {
           padding='0px'
           boxSize='300px'
           objectFit='cover'
-          src= 'https://i.pinimg.com/564x/40/3f/e2/403fe2b99e059c3cc401a614635e3689.jpg'
-          alt='Dan Abramov'
+          src= 'https://thumbs.dreamstime.com/z/time-natural-11172698.jpg'
+          alt='pict'
           
           />
           </Box>
@@ -166,7 +166,7 @@ export default function Hero() {
               boxSize='210px'
               objectFit='cover'
               src= 'https://static.vecteezy.com/system/resources/previews/000/596/028/original/community-people-logo-vector.jpg'
-              alt='Our Mission'
+              alt='pict'
               />
           </Box>
 
