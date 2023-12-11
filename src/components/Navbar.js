@@ -23,7 +23,7 @@ export default function Navbar (){
         
 
         <Center p={"4"} w='70px' bg='green.500'>
-          <Link href={"./service"}>Service</Link>
+          <Link href={"./service"}>Product</Link>
         </Center>
         <Center p={"4"} w='70px' bg='green.500'>
           <Link href={"./about"}>About</Link>
